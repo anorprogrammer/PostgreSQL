@@ -1,3 +1,6 @@
-site_name: My Docs
+site_name: PostgreSQL
+
 theme:
   name: material
+repo_name: anorprogrammer/PostgreSQL
+repo_url: https://github.com/anorprogrammer/PostgreSQL
