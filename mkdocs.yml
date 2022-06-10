@@ -2,5 +2,5 @@ site_name: PostgreSQL
 
 theme:
   name: material
-repo_name: anorprogrammer/PostgreSQL
+repo_name: PostgreSQL
 repo_url: https://github.com/anorprogrammer/PostgreSQL
