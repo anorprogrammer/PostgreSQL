@@ -2,6 +2,7 @@ site_name: PostgreSQL
 
 theme:
   name: material
+  language: uz
 
   palette:
     - media: "(prefers-color-scheme: light)" 
