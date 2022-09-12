@@ -17,3 +17,13 @@ theme:
 
 repo_name: PostgreSQL
 repo_url: https://github.com/anorprogrammer/PostgreSQL
+
+
+extra:
+  alternate:
+    - name: English
+      link: / 
+      lang: en
+    - name: O'zbekcha
+      link: /uz/
+      lang: uz
