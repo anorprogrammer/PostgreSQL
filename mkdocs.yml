@@ -27,3 +27,11 @@ extra:
     - name: O'zbekcha
       link: /uz/
       lang: uz
+      
+plugins:
+  - awesome-pages
+  - i18n:
+      default_language: en
+      languages:
+        en: English
+        uz: O'zbek
